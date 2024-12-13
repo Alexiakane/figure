@@ -1,0 +1,50 @@
+.puma{
+    display: flex;
+    background-image: url(Capture.PNG);
+    height: 782px;
+    width: 826px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.front{
+    height: 20%;
+    width: 20%;
+    background-color: rgb(252, 224, 165);
+    clip-path: polygon(0 30%, 20% 0, 99% 50%, 70% 100%);
+    transform: translate(183px, 72%);
+}
+.front2{
+    height: 20%;
+    width: 20%;
+    background-color: rgb(252, 224, 165);
+    clip-path: polygon(30% 0, 99% 58%, 77% 97%, 16% 33%, 0 17%);
+    transform: translate(-113px, 10%);
+}
+.front3{
+    height: 20%;
+    width: 22%;
+    background-color: rgb(252, 224, 165);
+    clip-path: polygon(100% 0, 100% 95%, 73% 95%, 0 43%, 63% 0);
+    transform: translate(-122px, 21%);
+}
+.fr4{
+    background-color: rgb(238, 205, 135);
+    height: 20%;
+    width: 20%;
+    clip-path: polygon(9% 0, 37% 10%, 94% 59%, 89% 82%, 45% 88%, 7% 59%);
+    transform: translate(-481px, 25%);
+}
+.fr5{
+    background-color: rgb(238, 205, 135);
+    height: 20%;
+    width: 20%;
+    clip-path: polygon(73% 0, 98% 0, 97% 85%, 48% 100%, 38% 53%, 39% 51%);
+    transform: translate(-428px, 120%);
+}
+.fr6{
+    background-color: rgb(153, 130, 80);
+    height: 20%;
+    width: 20%;
+    clip-path: polygon(41% 0, 89% 35%, 91% 74%, 22% 67%, 0 23%);
+    transform: translate(-428px, 120%);
+}

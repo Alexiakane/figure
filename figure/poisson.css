@@ -1,0 +1,74 @@
+.poisson{
+    display: flex;
+    height: 782px;
+    width: 826px;
+}
+.orange{
+    height: 0;
+    width: 0;
+    border-top: 68px solid transparent;
+    border-bottom: 68px solid transparent;
+    border-left: 68px solid orangered;
+    transform: translate(400px, 31%);
+}
+.violet{
+    height: 0;
+    width: 0;
+    border-top: 85px solid transparent;
+    border-right: 85px solid violet;
+    border-bottom: 85px solid transparent;
+    transform: translate(315px, 65%);
+}
+.bleu{
+    height: 0;
+    width: 0;
+    border-top: 85px solid transparent;
+    border-bottom: 85px solid transparent;
+    border-left: 85px solid blue;
+    transform: translate(315px, 65%);
+}
+.rouge1{
+    height: 0;
+    width: 0;
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    border-left: 60px solid red;
+    transform: translate(169px, 183%);
+}
+.rouge2{
+    height: 0;
+    width: 0;
+    border-top: 60px solid transparent;
+    border-right: 60px solid red;
+    border-bottom: 60px solid transparent;
+    transform: translate(49px, 183%);
+}
+.orange1{
+    height: 0;
+    width: 0;
+    border-top: 80px solid orange;
+    border-left: 80px solid transparent;
+    transform: translate(-134px, 144%);
+}
+.orange2{
+    height: 0;
+    width: 0;
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid orange;
+    transform: translate(-134px, 144%);
+}
+.vert{
+    height: 0;
+    width: 0;
+    border-top: 60px solid green;
+    border-left: 60px solid transparent;
+    transform: translate(-216px, 325%);
+}
+.gris{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 60px solid transparent;
+    border-left : 60px solid gray;
+    transform: translate(310px, 30%);
+}
